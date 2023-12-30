@@ -1,7 +1,7 @@
-<!--Great Github Corner from https://tholman.com/github-corners-->
-<a href="https://github.com/omer73364/mawaqeet"
+<!--Great Github Corner from https://tholman.com/telegram-corners-->
+<a href="https://t.me/Tbtgt"
     class="github-corner z-50"
-    aria-label="View source on GitHub" target="_blank">
+    aria-label="View source on telegram" target="_blank">
     <svg width="60" height="60" viewBox="0 0 250 250"
         style="fill:#303f38; color:#fff; position: absolute; top: 0; border: 0; right: 0;"
         aria-hidden="true">
