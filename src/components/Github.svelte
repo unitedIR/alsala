@@ -1,5 +1,5 @@
 <!--Great Github Corner from https://tholman.com/github-corners-->
-<a href="https://github.com/omer73364/mawaqeet"
+<a href="https://t.me/hzzzz4"
     class="github-corner z-50"
     aria-label="View source on GitHub" target="_blank">
     <svg width="60" height="60" viewBox="0 0 250 250"
